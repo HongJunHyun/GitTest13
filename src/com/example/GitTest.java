@@ -6,6 +6,10 @@ public class GitTest {
 		System.out.println("안녕 깃허브123");
 		// System.out.println(메시지확인 완료);
 		System.out.println("팀장 작업 ");
+//		System.out.println("팀원 작업 - 충돌처리 완료 ");
+
+		
+		//https://github.com/HongJunHyun/GitTest13
 	}
 
 }
