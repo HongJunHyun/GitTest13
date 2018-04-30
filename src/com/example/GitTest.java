@@ -4,12 +4,9 @@ public class GitTest {
 
 	public static void main(String[] args) {
 		System.out.println("안녕 깃허브123");
-		// System.out.println(메시지확인 완료);
-		System.out.println("팀장 작업 ㅁ");
-//		System.out.println("팀원 작업 - 충돌처리 완료 ");
+		System.out.println("팀장 작업 수정");
 
 		
-		//https://github.com/HongJunHyun/GitTest13
 	}
 
 }
