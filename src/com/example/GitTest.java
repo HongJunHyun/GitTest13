@@ -2,8 +2,10 @@ package com.example;
 
 public class GitTest {
 
-public static void main(String [] args) {
-	System.out.println("안녕 G");
+	public static void main(String[] args) {
+		System.out.println("안녕 깃허브123");
+		// System.out.println(메시지확인 완료);
+		System.out.println("팀장 작업");
 	}
-	
+
 }
